@@ -1,0 +1,14 @@
+fileOutput.xlsx
+
+*.pyc
+__pycache__/
+.env
+*.xlsx
+keys/*.key
+
+afterGroupFecha.xlsx
+beforeGroupFecha.xlsx
+transpByFormato.xlsx
+transp.xlsx
+pedidosByFormato.xlsx
+pedidosByMes.xlsx
