@@ -37,5 +37,5 @@ virtualenv==20.0.21
 virtualenv-clone==0.5.4
 wrapt==1.11.2
 xlrd==1.2.0
-pyjwt==1.7.1
+pyjwt==2.15.0
 cryptography 
