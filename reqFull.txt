@@ -33,7 +33,7 @@ python-dateutil==2.8.1
 pytz==2019.3
 scipy==1.4.1
 six==1.14.0
-virtualenv==20.0.21
+virtualenv==21.14.13
 virtualenv-clone==0.5.4
 Werkzeug==1.0.0
 wrapt==1.11.2
